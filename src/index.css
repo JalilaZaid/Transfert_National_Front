@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@font-face {
+  font-family: "med";
+  src: local("med"), url(./fonts/NZBAAY+TTFirsNeue-Medium.ttf);
+}
+@font-face {
+  font-family: "reg";
+  src: local("reg"), url(./fonts/QAEFQS+TTFirsNeue-Regular.ttf);
+}
+@font-face {
+  font-family: "thin";
+  src: local("thin"), url(./fonts/AMELAY+TTFirsNeue-Thin.ttf);
+}
+
